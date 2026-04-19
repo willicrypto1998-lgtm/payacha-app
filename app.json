@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Payacha Stock",
+    "slug": "payachaapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#085041"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#085041"
+      },
+      "package": "dz.waldev.payacha.stock"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "cb0cd761-a929-4e21-b07c-d1d21c57eda6"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/cb0cd761-a929-4e21-b07c-d1d21c57eda6"
+    },
+    "ios": {}
+  }
+}
