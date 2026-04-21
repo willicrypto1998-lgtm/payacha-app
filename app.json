@@ -16,19 +16,15 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#085041"
       },
-      "package": "dz.waldev.payacha.stock"
+      "package": "dz.waldev.payacha.stock",
+      "targetSdkVersion": 34,
+      "compileSdkVersion": 34,
+      "buildToolsVersion": "34.0.0"
     },
     "extra": {
       "eas": {
         "projectId": "cb0cd761-a929-4e21-b07c-d1d21c57eda6"
       }
-    },
-    "runtimeVersion": {
-      "policy": "appVersion"
-    },
-    "updates": {
-      "url": "https://u.expo.dev/cb0cd761-a929-4e21-b07c-d1d21c57eda6"
-    },
-    "ios": {}
+    }
   }
 }
